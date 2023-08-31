@@ -6,3 +6,6 @@ Udover det, har vi også lært yderligere omrking C++, hvor hovedområdet har v�
 
 28/08:
 I dag har vi arbejdet på vores trafiklysopgave. Der blev tænkt og overvejet forskellige løsninger, men vi valgte at gå med switch case, hvor der blev switched på de forskellige states. Der var et par ting,, som drillede ift. array, men det blev fikset, og opgaven blev løst.
+
+29/08:
+I dag har vi arbejdet videre med breadboardet og dioderne, og har dertil fået knapper og andre dele, som skulle tage imod input. Vi lærte om nogle måder, hvorpå vi kunne kode os frem til, at breadboardet kunne modtage disse input. Vi kunne alle vælge noget forskelligt, som vi skulle lave en opgave ud fra, og vi valgte en farvesensor, som via vores kode kan fortælle hvilken farve et fysisk objekt har, ved brug af RGB.
