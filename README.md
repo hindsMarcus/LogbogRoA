@@ -34,3 +34,52 @@ I dag fik vi en smagsprøve på 3D-printing. Vi blev introduceret til en ny 3D-p
 I dag har vi fortsat vores arbejde med JavaCSG ved at designe beholdere til både en NodeMCU og en større NodeMCU version 3. Desuden blev vi introduceret til Prusa, et værktøj til at forberede og forberede 3D-print.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+12/9
+I dag blev vi præsenteret for vores semesterprojekt, som er et togprojekt. Planen er at vi skal fremstille en række dele ved hjælp af 3D-printing, herunder skinner, klik-systemer og selve togene. I dag gik vi i gang med at udvikle klik-systemet. Vi brugte tid i grupper på at brainstorme idéer til forskellige typer klik-systemer. Til sidst endte vi med et system, der mindede meget om noget, som Tobias tidligere havde arbejdet med. Dette system fungerer ved at klikke sammen.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+15/9
+I dag fortsatte vi vores arbejde med klik-systemet. Vi udviklede kode specifikt til dette system og udførte adskillige testrunder for at nå frem til den mest optimale løsning. Desuden skabte vi en mere omfattende model af klik-systemet samt en rund udgave, som er særlig vigtig, når det skal implementeres på skinner med behov for sporomskiftning og kurver.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+19/9
+I dag arbejdede vi videre med Tobias for at udvikle en universel og dynamisk metode til at implementere og bruge vores klikkesystem. Vi benyttede både unit- og delta-mål, hvilket vil gøre det lettere at justere og tilpasse disse klik og huller til vores andre projekter eller til videre udvikling af togbane-projektet i fremtiden.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+22/9
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+26/9
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+29/9
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+3/10
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+6/10
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+10/10
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+13/10
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
