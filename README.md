@@ -70,20 +70,23 @@ I dag arbejdede vi på projektet, inklusive at programmere fugtighedsmåleren ti
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 3/10
-
+I dag fortsatte vi med projektet. Vi lykkedes med at 3D-udskrive den første udgave af den anden del af monteringen til fugtighedsmåleren. Desuden arbejdede vi på at optimere WIFI-delen af koden og på at programmere krogen til at fastgøre den til papvinens tud i JavaCSG.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 6/10
-
+I dag arbejdede vi videre med koden og monteringen til fugtighedsmåleren. Designet fra sidst var en god start, men manglede en vigtig komponent, nemlig en væg i enden for at forhindre måleren i at falde ned i vinen. Efter at have udskrevet en opdateret version med væggen, justerede vi kopholderen, så den passede bedre til måleren og kunne nøjagtigt måle vinen i koppen for at stoppe hældningen korrekt. Vi startede også på første version af vores spole.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 10/10
+I dag gik vi i gang med at arbejde på en ny spole. Efter at have en samtale med Tobias blev det klart, at den havde nogle mangler, som førte til en betydelig redesign. Nu ligner den i stedet mere et hjul, hvilket gør den betydeligt mere stabil og kræver mindre kraft for at rotere sammenlignet med første version.
+![273832109-0d6512e5-e59e-408d-aaed-1a3cec73616a](https://github.com/hindsMarcus/LogbogRoA/assets/100131450/7d620a19-6d3d-4859-990c-ae92d6e9f7d6)
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 13/10
+I dag var vores sidste officielle time, og vi var så meget i mål, som vi kunne komme. Der blev lavet en sidste version af spolen, og derefter testet koden til både motor og fugtighedsmåler. Vi prøvede også at printe en "modhage" til papvinen, så den ikke ville bøje tutten, når motoren startede. Den passede dog ikke, men idéen var ellers god.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
