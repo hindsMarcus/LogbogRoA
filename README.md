@@ -63,6 +63,8 @@ Vi fortsatte vores arbejde baseret på de idéer, vi brainstormede sidste uge, i
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 29/9
+I dag arbejdede vi på projektet, inklusive at programmere fugtighedsmåleren til koppen og udføre 3D-udskrivning. Dette omfattede klikkere til samling samt udskrivning af en kopholder og en del af fugtighedsmålerens montering, alt i virkelig god kvalitet. Dog er det kun lavet ud fra målene på de kopper, som vi har i kantinen.
+![272184098-d139ca3c-b008-44eb-998b-9169e09ae55e](https://github.com/hindsMarcus/LogbogRoA/assets/100131450/a9293126-973e-41bb-b6a5-2d929678b77d)
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
