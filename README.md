@@ -51,11 +51,13 @@ I dag arbejdede vi videre med Tobias for at udvikle en universel og dynamisk met
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 22/9
-
+I dag har vi opdelt os i grupper, og den indledende idégenerering er begyndt. Vi har kastet ideer frem og tilbage og sluttet os sammen med en anden gruppe. Til at starte med, havde vi planer om at lave en ølstation til togsystemet, men efter at klassen har ændret kurs væk fra toget, har vores tid været brugt på idégenerering, der hidtil har drejet sig om en automatisk vinåbner, der anvender en fugtighedsmåler til NodeMCU'en.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 26/9
+Vi fortsatte vores arbejde baseret på de idéer, vi brainstormede sidste uge, i forbindelse med vores projekt, som involverer brug af 3D-udskrivning, en motor og en fugtmåler til at opbygge en maskine, der kan skænke vin. Vi har designet den første del til vores krog, nemlig en arm med et hul og et led.
+![image](https://github.com/hindsMarcus/LogbogRoA/assets/100131450/c46db1fa-0fdd-4d0f-9436-5376b5eb29ad)
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
